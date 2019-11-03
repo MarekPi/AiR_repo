@@ -1,0 +1,11 @@
+/Users/marek/Documents/Semestr 9/C#/Lab2/Lab2/bin/Debug/netcoreapp3.0/Lab2
+/Users/marek/Documents/Semestr 9/C#/Lab2/Lab2/bin/Debug/netcoreapp3.0/Lab2.deps.json
+/Users/marek/Documents/Semestr 9/C#/Lab2/Lab2/bin/Debug/netcoreapp3.0/Lab2.runtimeconfig.json
+/Users/marek/Documents/Semestr 9/C#/Lab2/Lab2/bin/Debug/netcoreapp3.0/Lab2.runtimeconfig.dev.json
+/Users/marek/Documents/Semestr 9/C#/Lab2/Lab2/bin/Debug/netcoreapp3.0/Lab2.dll
+/Users/marek/Documents/Semestr 9/C#/Lab2/Lab2/bin/Debug/netcoreapp3.0/Lab2.pdb
+/Users/marek/Documents/Semestr 9/C#/Lab2/Lab2/obj/Debug/netcoreapp3.0/Lab2.csprojAssemblyReference.cache
+/Users/marek/Documents/Semestr 9/C#/Lab2/Lab2/obj/Debug/netcoreapp3.0/Lab2.AssemblyInfoInputs.cache
+/Users/marek/Documents/Semestr 9/C#/Lab2/Lab2/obj/Debug/netcoreapp3.0/Lab2.AssemblyInfo.cs
+/Users/marek/Documents/Semestr 9/C#/Lab2/Lab2/obj/Debug/netcoreapp3.0/Lab2.dll
+/Users/marek/Documents/Semestr 9/C#/Lab2/Lab2/obj/Debug/netcoreapp3.0/Lab2.pdb
