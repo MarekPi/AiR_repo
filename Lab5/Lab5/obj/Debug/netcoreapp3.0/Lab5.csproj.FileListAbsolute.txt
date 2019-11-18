@@ -1,0 +1,11 @@
+/Users/marek/Documents/Semestr 9/C#/AiR_repo/Lab5/Lab5/obj/Debug/netcoreapp3.0/Lab5.csprojAssemblyReference.cache
+/Users/marek/Documents/Semestr 9/C#/AiR_repo/Lab5/Lab5/obj/Debug/netcoreapp3.0/Lab5.AssemblyInfoInputs.cache
+/Users/marek/Documents/Semestr 9/C#/AiR_repo/Lab5/Lab5/obj/Debug/netcoreapp3.0/Lab5.AssemblyInfo.cs
+/Users/marek/Documents/Semestr 9/C#/AiR_repo/Lab5/Lab5/bin/Debug/netcoreapp3.0/Lab5
+/Users/marek/Documents/Semestr 9/C#/AiR_repo/Lab5/Lab5/bin/Debug/netcoreapp3.0/Lab5.deps.json
+/Users/marek/Documents/Semestr 9/C#/AiR_repo/Lab5/Lab5/bin/Debug/netcoreapp3.0/Lab5.runtimeconfig.json
+/Users/marek/Documents/Semestr 9/C#/AiR_repo/Lab5/Lab5/bin/Debug/netcoreapp3.0/Lab5.runtimeconfig.dev.json
+/Users/marek/Documents/Semestr 9/C#/AiR_repo/Lab5/Lab5/bin/Debug/netcoreapp3.0/Lab5.dll
+/Users/marek/Documents/Semestr 9/C#/AiR_repo/Lab5/Lab5/bin/Debug/netcoreapp3.0/Lab5.pdb
+/Users/marek/Documents/Semestr 9/C#/AiR_repo/Lab5/Lab5/obj/Debug/netcoreapp3.0/Lab5.dll
+/Users/marek/Documents/Semestr 9/C#/AiR_repo/Lab5/Lab5/obj/Debug/netcoreapp3.0/Lab5.pdb
