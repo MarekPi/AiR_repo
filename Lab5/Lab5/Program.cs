@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace Lab5
 {
@@ -16,14 +17,10 @@ namespace Lab5
 
             //Zadanie3 z3 = new Zadanie3();
             //Zadanie4 z4 = new Zadanie4();
+            Zadanie6 z6 = new Zadanie6();
+            //Zadanie7 z7 = new Zadanie7();
+         
 
-            //Zadanie7:
-            int[] tab = { 1, 2, 3, 4 };
-            int[] tab2 = { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
-            Matrix m = new Matrix(2,2,tab);
-            Matrix m2 = new Matrix(3, 3, tab2);
-            m.PrintMatrix();
-            m2.PrintMatrix();
         }
     }
 }
