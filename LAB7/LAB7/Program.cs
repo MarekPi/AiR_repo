@@ -7,37 +7,58 @@ namespace LAB7
     {
         static void Main(string[] args)
         {
-            List<ICepikData> ICepikDataList = new List<ICepikData>();
-            List<IStatData> IStatDataList = new List<IStatData>();
-            List<IPoliceData> IPoliceDataList = new List<IPoliceData>();
-            Auto A = new Auto("Osobowe", "Opel", 1700, "1234abcd", "KR1234", 2005, "czerwony", "Marek", "Piekarz", "123456789", "0987654321", 2010, 9);
-            Auto B = new Auto("Dostawce", "Volkswagen", 2500, "zxc123", "KR4567", 2018, "czarny", "Jan", "Kowalski", "789435234", "7635475869", 2019, 1);
-
-            ICepikDataList.Add(A);
-            IStatDataList.Add(A);
-            IPoliceDataList.Add(A);
-
-            ICepikDataList.Add(B);
-            IStatDataList.Add(B);
-            IPoliceDataList.Add(B);
-
-            Console.WriteLine("ICepikData:\n");
-            foreach(ICepikData elem in ICepikDataList)
+            //Zadanie1();
+            Zadanie2();
+            static void Zadanie1()
             {
-                elem.GetCepikData();
-                Console.WriteLine();
+                List<ICepikData> ICepikDataList = new List<ICepikData>();
+                List<IStatData> IStatDataList = new List<IStatData>();
+                List<IPoliceData> IPoliceDataList = new List<IPoliceData>();
+                Auto A = new Auto("Osobowe", "Opel", 1700, "1234abcd", "KR1234", 2005, "czerwony", "Marek", "Piekarz", "123456789", "0987654321", 2010, 9);
+                Auto B = new Auto("Dostawce", "Volkswagen", 2500, "zxc123", "KR4567", 2018, "czarny", "Jan", "Kowalski", "789435234", "7635475869", 2019, 1);
+
+                ICepikDataList.Add(A);
+                IStatDataList.Add(A);
+                IPoliceDataList.Add(A);
+
+                ICepikDataList.Add(B);
+                IStatDataList.Add(B);
+                IPoliceDataList.Add(B);
+
+                Console.WriteLine("ICepikData:\n");
+                foreach (ICepikData elem in ICepikDataList)
+                {
+                    elem.GetCepikData();
+                    Console.WriteLine();
+                }
+                Console.WriteLine("\nIStatData:\n");
+                foreach (IStatData elem in IStatDataList)
+                {
+                    elem.GetStatData();
+                    Console.WriteLine();
+                }
+                Console.WriteLine("\nIPoliceData:\n");
+                foreach (IPoliceData elem in IPoliceDataList)
+                {
+                    elem.GetPoliceData();
+                    Console.WriteLine();
+                }
             }
-            Console.WriteLine("\nIStatData:\n");
-            foreach(IStatData elem in IStatDataList)
+            static void Zadanie2()
             {
-                elem.GetStatData();
-                Console.WriteLine();
-            }
-            Console.WriteLine("\nIPoliceData:\n");
-            foreach (IPoliceData elem in IPoliceDataList)
-            {
-                elem.GetPoliceData();
-                Console.WriteLine();
+                Point p1 = new Point(1, 0);
+                Point p2 = new Point(2, 3);
+                Point p3 = p1 + p2;
+                Console.WriteLine("P3 = P1+P2 :");
+                p3.print();
+                if (p1)
+                {
+                    Console.WriteLine("TRUE");
+                }
+                else
+                {
+                    Console.WriteLine("FALSE");
+                }
             }
         }
     }
