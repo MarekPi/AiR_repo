@@ -8,7 +8,8 @@ namespace LAB7
         static void Main(string[] args)
         {
             //Zadanie1();
-            Zadanie2();
+            //Zadanie2();
+            Zadanie3();
             static void Zadanie1()
             {
                 List<ICepikData> ICepikDataList = new List<ICepikData>();
@@ -71,6 +72,12 @@ namespace LAB7
                 p6.print();
                 Console.WriteLine("Suma wartosci wspolrzednych punktu p6: {0}", (int)p6);
             }
+            static void Zadanie3()
+            {
+                Zadanie3 z3 = new Zadanie3();
+                z3.Zad3();
+            }
+
         }
     }
 }
