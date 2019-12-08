@@ -59,6 +59,17 @@ namespace LAB7
                 {
                     Console.WriteLine("FALSE");
                 }
+                Point p4 = new Point(2, 2);
+                Point p5 = new Point(2, 2);
+                Console.WriteLine("Czy P4 == P5? : {0}", p4 == p5);
+                p5++;
+                p5.print();
+                p5--;
+                p5.print();
+
+                Point p6 = 10;
+                p6.print();
+                Console.WriteLine("Suma wartosci wspolrzednych punktu p6: {0}", (int)p6);
             }
         }
     }
