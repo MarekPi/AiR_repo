@@ -1,10 +1,10 @@
 ﻿<Properties StartupConfiguration="{6529231E-E05E-4011-BE14-8524C52F06BA}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="LAB7/Zadanie3.cs">
     <Files>
-      <File FileName="LAB7/Program.cs" Line="72" Column="89" />
+      <File FileName="LAB7/Program.cs" Line="12" Column="24" />
       <File FileName="LAB7/Zadanie1.cs" Line="62" Column="10" />
       <File FileName="LAB7/Zadanie2.cs" Line="60" Column="10" />
-      <File FileName="LAB7/Zadanie3.cs" Line="8" Column="1" />
+      <File FileName="LAB7/Zadanie3.cs" Line="36" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">

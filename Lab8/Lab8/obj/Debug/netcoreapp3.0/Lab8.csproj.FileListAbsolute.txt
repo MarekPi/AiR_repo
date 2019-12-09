@@ -1,0 +1,11 @@
+/Users/marek/Documents/Semestr_9/C#/AiR_repo/Lab8/Lab8/bin/Debug/netcoreapp3.0/Lab8
+/Users/marek/Documents/Semestr_9/C#/AiR_repo/Lab8/Lab8/bin/Debug/netcoreapp3.0/Lab8.deps.json
+/Users/marek/Documents/Semestr_9/C#/AiR_repo/Lab8/Lab8/bin/Debug/netcoreapp3.0/Lab8.runtimeconfig.json
+/Users/marek/Documents/Semestr_9/C#/AiR_repo/Lab8/Lab8/bin/Debug/netcoreapp3.0/Lab8.runtimeconfig.dev.json
+/Users/marek/Documents/Semestr_9/C#/AiR_repo/Lab8/Lab8/bin/Debug/netcoreapp3.0/Lab8.dll
+/Users/marek/Documents/Semestr_9/C#/AiR_repo/Lab8/Lab8/bin/Debug/netcoreapp3.0/Lab8.pdb
+/Users/marek/Documents/Semestr_9/C#/AiR_repo/Lab8/Lab8/obj/Debug/netcoreapp3.0/Lab8.csprojAssemblyReference.cache
+/Users/marek/Documents/Semestr_9/C#/AiR_repo/Lab8/Lab8/obj/Debug/netcoreapp3.0/Lab8.AssemblyInfoInputs.cache
+/Users/marek/Documents/Semestr_9/C#/AiR_repo/Lab8/Lab8/obj/Debug/netcoreapp3.0/Lab8.AssemblyInfo.cs
+/Users/marek/Documents/Semestr_9/C#/AiR_repo/Lab8/Lab8/obj/Debug/netcoreapp3.0/Lab8.dll
+/Users/marek/Documents/Semestr_9/C#/AiR_repo/Lab8/Lab8/obj/Debug/netcoreapp3.0/Lab8.pdb
