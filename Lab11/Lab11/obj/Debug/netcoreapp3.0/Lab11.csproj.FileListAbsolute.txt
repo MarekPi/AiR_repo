@@ -1,0 +1,11 @@
+/Users/marek/Documents/Semestr_9/C#/AiR_repo/Lab11/Lab11/bin/Debug/netcoreapp3.0/Lab11
+/Users/marek/Documents/Semestr_9/C#/AiR_repo/Lab11/Lab11/bin/Debug/netcoreapp3.0/Lab11.deps.json
+/Users/marek/Documents/Semestr_9/C#/AiR_repo/Lab11/Lab11/bin/Debug/netcoreapp3.0/Lab11.runtimeconfig.json
+/Users/marek/Documents/Semestr_9/C#/AiR_repo/Lab11/Lab11/bin/Debug/netcoreapp3.0/Lab11.runtimeconfig.dev.json
+/Users/marek/Documents/Semestr_9/C#/AiR_repo/Lab11/Lab11/bin/Debug/netcoreapp3.0/Lab11.dll
+/Users/marek/Documents/Semestr_9/C#/AiR_repo/Lab11/Lab11/bin/Debug/netcoreapp3.0/Lab11.pdb
+/Users/marek/Documents/Semestr_9/C#/AiR_repo/Lab11/Lab11/obj/Debug/netcoreapp3.0/Lab11.csprojAssemblyReference.cache
+/Users/marek/Documents/Semestr_9/C#/AiR_repo/Lab11/Lab11/obj/Debug/netcoreapp3.0/Lab11.AssemblyInfoInputs.cache
+/Users/marek/Documents/Semestr_9/C#/AiR_repo/Lab11/Lab11/obj/Debug/netcoreapp3.0/Lab11.AssemblyInfo.cs
+/Users/marek/Documents/Semestr_9/C#/AiR_repo/Lab11/Lab11/obj/Debug/netcoreapp3.0/Lab11.dll
+/Users/marek/Documents/Semestr_9/C#/AiR_repo/Lab11/Lab11/obj/Debug/netcoreapp3.0/Lab11.pdb
